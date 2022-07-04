@@ -1,4 +1,4 @@
-#
+# This is used to practise Git source code version controls
 # Trains an MNIST digit recognizer using PyTorch Lightning,
 # and uses Mlflow to log metrics, params and artifacts
 # NOTE: This eres you toxample requi first install
