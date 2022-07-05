@@ -4,10 +4,13 @@
 # NOTE: This eres you toxample requi first install
 # pytorch-lightning (using pip install pytorch-lightning)
 #       and mlflow (using pip install mlflow).
-#
+# Date: 2022/07/3
+## Git usages
 # pylint: disable=arguments-differ
 # pylint: disable=unused-argument
 # pylint: disable=abstract-method
+
+# on dev branch
 import pytorch_lightning as pl
 import mlflow.pytorch
 import logging
